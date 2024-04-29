@@ -1,0 +1,11 @@
+body{
+    text-align: justify;
+    background-color: #6fd4d4;
+    padding: 20px;
+}
+li{
+    text-align: left;
+}
+h1, h2, h3{
+    text-align: center;
+}
